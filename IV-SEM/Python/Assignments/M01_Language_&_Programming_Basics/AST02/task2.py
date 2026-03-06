@@ -1,3 +1,4 @@
+#2
 def even_odd(n: int) -> str:
     if n % 2 == 1:
         return "Weird"

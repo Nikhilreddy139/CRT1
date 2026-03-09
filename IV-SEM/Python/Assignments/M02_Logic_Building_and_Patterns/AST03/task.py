@@ -1,3 +1,4 @@
+#3
 def sum_of_digits(n: int) -> int:
     total = 0
     while n > 0:

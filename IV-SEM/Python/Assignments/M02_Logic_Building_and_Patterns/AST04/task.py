@@ -1,3 +1,4 @@
+#4
 def right_triangle(n: int) -> str:
     pattern = ""
     for i in range(1, n + 1):

@@ -1,5 +1,5 @@
 import unittest
-from task5 import Collatz_Sequence
+from task import Collatz_Sequence
 
 class TestAssignment(unittest.TestCase):
 
